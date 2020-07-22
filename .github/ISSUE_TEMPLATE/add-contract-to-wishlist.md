@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Contract Address:
+Contract Address(es):
 ChainId:
 Project Name (Optional):
 Developers (Optional):
