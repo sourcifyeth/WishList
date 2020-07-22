@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-What do you want to imrpove?
+What do you want to improve?
